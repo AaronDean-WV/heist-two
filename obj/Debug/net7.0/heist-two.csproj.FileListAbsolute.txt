@@ -1,0 +1,15 @@
+C:\Users\adean\workspace\csharp\heist-two\bin\Debug\net7.0\heist-two.exe
+C:\Users\adean\workspace\csharp\heist-two\bin\Debug\net7.0\heist-two.deps.json
+C:\Users\adean\workspace\csharp\heist-two\bin\Debug\net7.0\heist-two.runtimeconfig.json
+C:\Users\adean\workspace\csharp\heist-two\bin\Debug\net7.0\heist-two.dll
+C:\Users\adean\workspace\csharp\heist-two\bin\Debug\net7.0\heist-two.pdb
+C:\Users\adean\workspace\csharp\heist-two\obj\Debug\net7.0\heist-two.csproj.AssemblyReference.cache
+C:\Users\adean\workspace\csharp\heist-two\obj\Debug\net7.0\heist-two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adean\workspace\csharp\heist-two\obj\Debug\net7.0\heist-two.AssemblyInfoInputs.cache
+C:\Users\adean\workspace\csharp\heist-two\obj\Debug\net7.0\heist-two.AssemblyInfo.cs
+C:\Users\adean\workspace\csharp\heist-two\obj\Debug\net7.0\heist-two.csproj.CoreCompileInputs.cache
+C:\Users\adean\workspace\csharp\heist-two\obj\Debug\net7.0\heist-two.dll
+C:\Users\adean\workspace\csharp\heist-two\obj\Debug\net7.0\refint\heist-two.dll
+C:\Users\adean\workspace\csharp\heist-two\obj\Debug\net7.0\heist-two.pdb
+C:\Users\adean\workspace\csharp\heist-two\obj\Debug\net7.0\heist-two.genruntimeconfig.cache
+C:\Users\adean\workspace\csharp\heist-two\obj\Debug\net7.0\ref\heist-two.dll
