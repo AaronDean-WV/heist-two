@@ -1,9 +1,12 @@
-namespace Heist{
+namespace Heist
+{
 public class Hacker : IRobber
 {
     public string Name { get; set; }
     public int SkillLevel { get; set; }
     public int PercentageCut { get; set; }
+    public int Index { get; set; }
+    public string Specialty { get; set; }= "Hacker";
     public void PerformSkill(Bank bank)
     {
         bank.AlarmScore -= SkillLevel;
@@ -20,6 +23,8 @@ public class Muscle : IRobber
     public string Name { get; set; }
     public int SkillLevel { get; set; }
     public int PercentageCut { get; set; }
+     public int Index { get; set; }
+     public string Specialty {get; set;} = "Muscle";
     public void PerformSkill(Bank bank)
     {
         bank.SecurityGuardScore -= SkillLevel;
@@ -36,6 +41,8 @@ public class LockSpecialist : IRobber
     public string Name { get; set; }
     public int SkillLevel { get; set; }
     public int PercentageCut { get; set; }
+     public int Index { get; set; }
+     public string Specialty {get; set; } = "Lock Specialist";
     public void PerformSkill(Bank bank)
     {
         bank.VaultScore -= SkillLevel;
